@@ -37,12 +37,12 @@ win margin: India 4 - Australia 1
 ******************************* Individual Performances Prediction **************************************************
 
 Data that is taken into consideration for runs,4s,6s & wickets prediction:
-1.India's all matches for the past 2 years
-2.Australia's all matches for the past 2 years
-3.India's home matches for the past 4 years
-4.Australis's away performance for the past 4 years
-5.India vs all opposition played at the venues of the upcoming odi series- Hyderabad,ranchi, Delhi,Nagpur & Mohali
-6.India Vs Australia matches played in India for the last ten years
+1. India's all matches for the past 2 years
+2. Australia's all matches for the past 2 years
+3. India's home matches for the past 4 years
+4. Australis's away performance for the past 4 years
+5. India vs all opposition played at the venues of the upcoming odi series- Hyderabad,ranchi, Delhi,Nagpur & Mohali
+6. India Vs Australia matches played in India for the last ten years
 
 Data cleaning & Preparation:
 Extracted the year from Start Date as only year is important in our analysis.
@@ -60,6 +60,9 @@ Created test cases for prediction and used them as the test data
 
 Results:
 Virat Kohli - Highest number of runs in the series
+
 Rohit Sharma - Highest number of sixes in the series
+
 Virat Kohli - Highest number of fours in the series
+
 Kuldeep Yadav - Highest number of wickets in the series
